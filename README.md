@@ -1,4 +1,5 @@
 # Alternative wa-version
+[![Sponsor](https://img.shields.io/badge/Sponsor-Donate-green.svg)](https://github.com/sponsors/guigo613)
 
 This repository contains an alternative version of WhatsApp, focused on fixing the issue of videos not being sent correctly to the API.
 
